@@ -1,1 +1,3 @@
 # sql-docker
+## I followed the tutorial from Smári
+### Everything worked out great except I couldn't install cors with the command in the tutorial. There was a problem with the symbol $ so when I removed that I got it to work! The second thing that happened was that I couldn't connect to my local host. I think that it's because I was moving around a lot so I just tried starting yarn again and wallah it worked! After that it was smooth sailing adding the .gitignore file and .env file - Backend complete and then it was connecting it to React which had no hiccups :)
